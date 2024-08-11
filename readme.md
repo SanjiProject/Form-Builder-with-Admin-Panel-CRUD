@@ -23,4 +23,3 @@ The Customizable Form Builder is a PHP-based application that allows administrat
 
    ```bash
    git clone https://github.com/SanjiProject/Form-Builder-with-Admin-Panel-CRUD.git
-   cd your-repo
