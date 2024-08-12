@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost'; // Your database host
-$db = 'form_builder'; // Your database name
-$user = 'form_builder'; // Your database username
-$pass = 'WjPYbnxwpTwJaGFn'; // Your database password
+$db = 'databasename'; // Your database name
+$user = 'databaseuser'; // Your database username
+$pass = 'password'; // Your database password
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
